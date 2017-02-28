@@ -1,0 +1,13 @@
+1: Logic V
+2: Power V
+3: GND
+
+4: ID-20 Signal
+5: LED 1
+6: LED 2 / Programming Button 
+7: Bolt Signal
+8: LCD Serial
+
+
+?? or for other utils  ??
+the bolt signal will be coming from a npn switch on the inside of the door 
